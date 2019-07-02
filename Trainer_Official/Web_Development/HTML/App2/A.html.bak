@@ -1,0 +1,11 @@
+<html>
+	<head>
+		<title> about style </title>
+	</head>
+	<!-- format of html style attribute
+	<tagname style="property:value;">
+	-->
+	<body>
+		<b> This text is bold </b>
+	</body>
+</html>

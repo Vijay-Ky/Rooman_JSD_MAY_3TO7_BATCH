@@ -1,0 +1,18 @@
+<html>
+	<head>
+		<title> select element </title>
+	</head>
+	<body>
+	<form action="/action_page/.php">
+		<select name="cars" size="3">
+			<option value="volvo">volvo</option>
+			<option value="BMW">BMW</option>
+			<option value="AUDI" selected>AUDI</option>
+			<option value="BENZ">BENZ</option>
+		</select>
+		<br>
+		<br>
+		<input type="submit">
+		</form>
+	</body>
+</html>

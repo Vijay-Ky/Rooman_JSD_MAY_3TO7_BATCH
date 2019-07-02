@@ -1,0 +1,16 @@
+<html>
+	<head>
+		<title> about line bracks in a paragraph</title>
+	</head>
+	<body>
+		<pre>
+		This is the content inside pre element.
+		containing 
+			lot of blank
+
+				lines and white spaces
+
+					this will be presented as it is.
+		</pre>
+	</body>
+</html>

@@ -1,0 +1,9 @@
+<!doctype html>
+ <head>
+  <title>Paragraph space after each paragraph</title>
+ </head>
+ <body>
+  <p>This is a paragrah</p>
+  <p>This is also a paragrah</P>
+ </body>
+</html>

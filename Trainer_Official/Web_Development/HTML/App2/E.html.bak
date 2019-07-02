@@ -1,0 +1,9 @@
+<html>
+	<head>
+		<title> about style </title>
+	</head>
+	<!-- text format-->
+	<body>
+		<h2> This text is h1 heading <small> This text is small </small> </h2>
+	</body>
+</html>

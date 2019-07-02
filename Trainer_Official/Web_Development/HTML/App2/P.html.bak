@@ -1,0 +1,6 @@
+<html>
+	<body>
+		<bdo dir="bdo"> The text will be printed in reverse i,e override
+		the current text direction.</bdo>
+	</body>
+</html>

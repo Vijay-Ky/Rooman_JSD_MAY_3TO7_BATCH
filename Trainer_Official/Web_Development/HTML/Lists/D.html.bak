@@ -1,0 +1,8 @@
+<html>
+	<head>
+		<title> Block level elements </title>
+	</head>
+	<body>
+		<p> My Name is <span style="border: 2px solid black"> Vijay!!</p></div>
+	</body>
+</html>

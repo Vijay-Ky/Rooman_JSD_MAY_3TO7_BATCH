@@ -1,0 +1,29 @@
+<html>
+	<head>
+		<style>
+			h1
+			{
+				color: blue;
+				font-family: verdana;
+				font-size: 300%;
+			}
+			p.error
+			{
+				color:red;
+			}
+		</style>
+	</head>
+	<body>
+		<center>
+			<p class="error"> 404 page not found </p>
+		</center>
+	</body>
+	</html>
+
+
+
+
+
+
+
+

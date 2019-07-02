@@ -1,0 +1,8 @@
+<html>
+	<head>
+		<title> about line bracks in a paragraph</p>
+	</head>
+	<body>
+		<p> This is a paragraph </br> with line break</p>
+	</body>
+</html>

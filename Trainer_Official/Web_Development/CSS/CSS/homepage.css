@@ -1,0 +1,54 @@
+#firstparagraph
+{
+    border-style: none;
+    color: white;
+    font-size: 300%; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif  
+}
+#secondparagraph
+{
+    border-style:double;
+    color: white;
+    font-size: 300%; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+body
+{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+div
+{
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: lightblue;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    height: 200px;
+    width: 50%; 
+    outline: #4CAF50 solid 10px;
+    color: blue;
+    text-align: center;
+    text-align: justify;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-indent: 50px;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    text-shadow: 3px 2px red;
+}
+#fontstyle
+{
+    color: whitesmoke;
+    font-style: normal;
+    font-size: 50px;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+

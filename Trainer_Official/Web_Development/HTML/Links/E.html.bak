@@ -1,0 +1,23 @@
+<html>
+	<head>
+		<title> Creating Table in HTML </title>
+	</head>
+	<body>
+		<table style="width:100%">
+			<tr>
+				<th>FirstName</th>
+				<th>LastName</th>
+				<th>Age</td>
+			</tr>
+			<tr>
+				<td>Jill</td>
+				<td>Smith</td>
+				<td>50</td>
+			</tr>
+			<tr>
+				<td>Eve</td>
+				<td>Jackson</td>
+				<td>69</td>
+			</tr>
+		</body>
+	</html>

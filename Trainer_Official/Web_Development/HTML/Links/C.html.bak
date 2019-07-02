@@ -1,0 +1,9 @@
+<html>
+	<head>
+		<title> Link Titles</title>
+	</head>
+	<body>
+		<a href="http://www.google.com" title="Takes You to the
+		google search web page!">GOOGLE WEB SEARCH PAGE</a>
+	</body>
+</html>

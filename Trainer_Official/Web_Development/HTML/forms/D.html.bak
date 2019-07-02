@@ -1,0 +1,13 @@
+<html>
+	<head>
+		<title> select element </title>
+	</head>
+	<body>
+		<select name="cars">
+			<option value="volvo">volvo</option>
+			<option value="BMW">BMW</option>
+			<option value="AUDI">AUDI</option>
+			<option value="BENZ">BENZ</option>
+		</select>
+	</body>
+</html>
